@@ -19,7 +19,7 @@
 # Ascending Deadline
 ![5 Ascending deadline](https://user-images.githubusercontent.com/94789593/161243362-970d0a72-ba9e-4ff0-87e1-2780a263ae31.png)
 
-#Ascending Prioritas 
+# Ascending Prioritas 
 ![6 Ascending prioritas](https://user-images.githubusercontent.com/94789593/161243365-5fa2473d-f66d-4f39-8c02-21a8670b156f.png)
 
 # Ascending status
@@ -31,5 +31,5 @@
 # Selesai
 ![9 Menyelesaikan tugas](https://user-images.githubusercontent.com/94789593/161243329-39fa663d-9844-4827-9a94-98a39adedf06.png)
 
-#Hapus
+# Hapus
 ![10 Menghapus list](https://user-images.githubusercontent.com/94789593/161243339-15923583-14ea-43d6-a34b-50360c0d9cab.png)
