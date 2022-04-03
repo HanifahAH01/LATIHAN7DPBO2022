@@ -26,7 +26,7 @@
 > ![7 Ascending status](https://user-images.githubusercontent.com/94789593/161409895-9ad1fed1-9968-48b5-ba24-2a1277ae960e.png)
 
 # Ascending subjek
-> ![8 Ascending subjek](https://user-images.githubusercontent.com/94789593/161409899-b35c8edb-5329-4e66-83d8-2fdd58ee1312.png)
+> ![8 Ascending subjek](https://user-images.githubusercontent.com/94789593/161410058-9807ebfd-f707-4a28-b2d2-1c8df6fd0482.png)
 
 # Selesai
 > ![9 Menyelesaikan tugas](https://user-images.githubusercontent.com/94789593/161409747-082e0fc1-d3bd-4e23-8631-17951a9a6c7f.png)
