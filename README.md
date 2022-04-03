@@ -2,34 +2,34 @@
 > Saya Hanifah Al Humaira 2000152 mengerjakan tugas LATIHAN7 dalam mata kuliah Desain dan Pemrograman Berbasis Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin
 
 # Tampilan Awal
-![0 Tampilan awal](https://user-images.githubusercontent.com/94789593/161243345-6de7b321-c404-47ce-a159-5843f7ed0430.png)
+![0 Tampilan awal](https://user-images.githubusercontent.com/94789593/161409717-a43fab46-f60c-45b1-be4d-1766abfe502a.png)
 
 # Input data
-![1 Input data](https://user-images.githubusercontent.com/94789593/161243349-00113394-efbd-4cc4-84db-28a957beffd3.png)
+![1 Input data](https://user-images.githubusercontent.com/94789593/161409719-8948c9db-6d30-4938-8021-3658598f628e.png)
 
 # Add 
-![2 Add input data](https://user-images.githubusercontent.com/94789593/161243353-ac0c648b-ec67-4b48-a7f3-e17319d1b84b.png)
+![2 Add input data](https://user-images.githubusercontent.com/94789593/161409723-635820d6-1c19-41a0-826c-5296ec2324a2.png)
 
 # Input (rest sort)
-![3 inputan (reset sort)](https://user-images.githubusercontent.com/94789593/161243356-fc16fd9e-6c90-4da5-88c3-1457b810ffa4.png)
+![3 inputan (reset sort)](https://user-images.githubusercontent.com/94789593/161409727-883864a0-979f-452e-be49-ab726f817f52.png)
 
 # Tampilan reset sort
-![4 Tampilan reset sort](https://user-images.githubusercontent.com/94789593/161243357-a238b6c4-f10c-48ea-ac01-cf782679a977.png)
+![3 inputan (reset sort)](https://user-images.githubusercontent.com/94789593/161409733-6dbbbb7f-486b-437d-84cb-54ab1eec5d65.png)
 
 # Ascending Deadline
-![5 Ascending deadline](https://user-images.githubusercontent.com/94789593/161243362-970d0a72-ba9e-4ff0-87e1-2780a263ae31.png)
+![3 inputan (reset sort)](https://user-images.githubusercontent.com/94789593/161409735-f4a5d8de-362d-4fb0-ab2b-1e3266853726.png)
 
 # Ascending Prioritas 
-![6 Ascending prioritas](https://user-images.githubusercontent.com/94789593/161243365-5fa2473d-f66d-4f39-8c02-21a8670b156f.png)
+![6 Ascending prioritas](https://user-images.githubusercontent.com/94789593/161409739-7354398b-795c-413a-8f27-5104f283265c.png)
 
 # Ascending status
-![7 Ascending status](https://user-images.githubusercontent.com/94789593/161243367-da8c1522-b7fd-4c31-83bf-f3a0891bf3e3.png)
+![6 Ascending prioritas](https://user-images.githubusercontent.com/94789593/161409742-a575efeb-8c2f-490b-8097-0c72be1ebcc9.png)
 
 # Ascending subjek
-![8 Ascending subjek](https://user-images.githubusercontent.com/94789593/161243368-4f7b82fd-7508-4f05-af86-db9308a3d2e1.png)
+![6 Ascending prioritas](https://user-images.githubusercontent.com/94789593/161409745-7bdd119e-f04c-4c21-8e6d-a4a4a62918b2.png)
 
 # Selesai
-![9 Menyelesaikan tugas](https://user-images.githubusercontent.com/94789593/161243329-39fa663d-9844-4827-9a94-98a39adedf06.png)
+![9 Menyelesaikan tugas](https://user-images.githubusercontent.com/94789593/161409747-082e0fc1-d3bd-4e23-8631-17951a9a6c7f.png)
 
 # Hapus
-![10 Menghapus list](https://user-images.githubusercontent.com/94789593/161243339-15923583-14ea-43d6-a34b-50360c0d9cab.png)
+![9 Menyelesaikan tugas](https://user-images.githubusercontent.com/94789593/161409755-336b2955-9ff8-4956-a1cc-413373548e04.png)
