@@ -10,26 +10,26 @@
 # Add 
 ![2 Add input data](https://user-images.githubusercontent.com/94789593/161409723-635820d6-1c19-41a0-826c-5296ec2324a2.png)
 
-# Input (rest sort)
-![3 inputan (reset sort)](https://user-images.githubusercontent.com/94789593/161409727-883864a0-979f-452e-be49-ab726f817f52.png)
+# Input (resert)
+![3 inputan (reset sort)](https://user-images.githubusercontent.com/94789593/161409845-3c747994-8dcd-40a8-b41b-a09651cf542c.png)
 
-# Tampilan reset sort
-![3 inputan (reset sort)](https://user-images.githubusercontent.com/94789593/161409733-6dbbbb7f-486b-437d-84cb-54ab1eec5d65.png)
+# Tampilan resert
+![4 Tampilan reset sort](https://user-images.githubusercontent.com/94789593/161409853-1ae7e170-df69-441e-ac40-dbe9ae7aa0e4.png)
 
 # Ascending Deadline
-![3 inputan (reset sort)](https://user-images.githubusercontent.com/94789593/161409735-f4a5d8de-362d-4fb0-ab2b-1e3266853726.png)
+![5 Ascending deadline](https://user-images.githubusercontent.com/94789593/161409859-3957626d-3bf7-4706-81f0-ced26e8d8662.png)
 
 # Ascending Prioritas 
-![6 Ascending prioritas](https://user-images.githubusercontent.com/94789593/161409739-7354398b-795c-413a-8f27-5104f283265c.png)
+![6 Ascending prioritas](https://user-images.githubusercontent.com/94789593/161409875-92633bbd-3670-40c5-8d45-59fe525311f3.png)
 
 # Ascending status
-![6 Ascending prioritas](https://user-images.githubusercontent.com/94789593/161409742-a575efeb-8c2f-490b-8097-0c72be1ebcc9.png)
+![7 Ascending status](https://user-images.githubusercontent.com/94789593/161409895-9ad1fed1-9968-48b5-ba24-2a1277ae960e.png)
 
 # Ascending subjek
-![6 Ascending prioritas](https://user-images.githubusercontent.com/94789593/161409745-7bdd119e-f04c-4c21-8e6d-a4a4a62918b2.png)
+![8 Ascending subjek](https://user-images.githubusercontent.com/94789593/161409899-b35c8edb-5329-4e66-83d8-2fdd58ee1312.png)
 
 # Selesai
 ![9 Menyelesaikan tugas](https://user-images.githubusercontent.com/94789593/161409747-082e0fc1-d3bd-4e23-8631-17951a9a6c7f.png)
 
 # Hapus
-![9 Menyelesaikan tugas](https://user-images.githubusercontent.com/94789593/161409755-336b2955-9ff8-4956-a1cc-413373548e04.png)
+![10 Menghapus list](https://user-images.githubusercontent.com/94789593/161409902-569c645d-9173-42a2-9585-752b8e501c12.png)
