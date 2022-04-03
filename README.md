@@ -2,7 +2,7 @@
 > Saya Hanifah Al Humaira 2000152 mengerjakan tugas LATIHAN7 dalam mata kuliah Desain dan Pemrograman Berbasis Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin
 
 # Tampilan Awal
-![0 Tampilan awal](https://user-images.githubusercontent.com/94789593/161409717-a43fab46-f60c-45b1-be4d-1766abfe502a.png)
+> ![0 Tampilan awal](https://user-images.githubusercontent.com/94789593/161409717-a43fab46-f60c-45b1-be4d-1766abfe502a.png)
 
 # Input data
 ![1 Input data](https://user-images.githubusercontent.com/94789593/161409719-8948c9db-6d30-4938-8021-3658598f628e.png)
